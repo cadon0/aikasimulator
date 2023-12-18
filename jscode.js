@@ -186,7 +186,7 @@ function LoadDataFromUrl(res){
 }
 
 function SaveDataToUrl(){
-    var currentWebsite = "https://cadon0.github.io/aikasimulator/";
+    var currentWebsite = "https://cadon0.github.io/aikasimulator/?";
     var currentSkillSet = skillPoint[0] + "&" + skillPoint[1] + "&" + skillPoint[2] + "&" + skillPoint[3] + "&" + skillPoint[4] + "&" + skillPoint[5] + "&" + skillPoint[6] + "&" + skillPoint[7] + "&" +
     skillPoint[8] + "&" + skillPoint[9] + "&" + skillPoint[10] + "&" + skillPoint[11] + "&" + skillPoint[12] + "&" + skillPoint[13] + "&" + skillPoint[14] + "&" + skillPoint[15] + "&" + skillPoint[16] + "&" +
     skillPoint[17] + "&" + skillPoint[18] + "&" + skillPoint[19] + "&" + skillPoint[20] + "&" + skillPoint[21] + "&" + skillPoint[22] + "&" + skillPoint[23] + "&" + skillPoint[24] + "&" + skillPoint[25] + "&" +
